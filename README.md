@@ -4,7 +4,7 @@ This is a simple To-Do List application built using HTML, CSS, and JavaScript. T
 
 ## Live Demo
 
-Check out the live demo of the To-Do List website: [to-do-list](https://pastle-to-do-list.netlify.app)
+Check out the live demo of the To-Do List website: [Here](https://pastle-to-do-list.netlify.app)
 
 ## Screenshots
 
