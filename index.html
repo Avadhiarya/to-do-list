@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>to-do-list website</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <div class="sidebar">
+        <h2>Categories</h2>
+        <ul id="categories">
+            <li class="active" data-category="All">All</li>
+            <li data-category="Personal">Personal</li>
+            <li data-category="Work">Work</li>
+            <li data-category="Shopping">Shopping</li>
+            <li data-category="Ideas">Ideas</li>
+        </ul>
+    </div>
+    <div class="main-content">
+        <h1>Sticky Notes</h1>
+        <div class="notes-container" id="notesContainer">
+            <!-- Existing notes will be added here dynamically -->
+            <div class="new-note">
+                <textarea id="newNoteText" placeholder="Type a new note..."></textarea>
+                <button onclick="addNote()">+</button>
+            </div>
+        </div>
+    </div>
+</div>
+  <script src="script.js"></script>
+</body>
+</html>
