@@ -2,6 +2,10 @@
 
 This is a simple To-Do List application built using HTML, CSS, and JavaScript. The app features a pastel color scheme and allows users to organize their tasks into different sections.
 
+## Live Demo
+
+Check out the live demo of the To-Do List website: [to-do-list](https://pastle-to-do-list.netlify.app)
+
 ## Screenshots
 
 Here are some screenshots of the To-Do List website:
