@@ -29,7 +29,7 @@ This is a simple To-Do List application built using HTML, CSS, and JavaScript. T
 
 Here are some screenshots of the To-Do List website:
 
-![Home Page](./home_page.png)
+![Home Page](./home%20page.png)
 *The main interface where you can add tasks.*
 
 ![Work Section](./work%20notes.png)
