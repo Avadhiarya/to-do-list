@@ -2,6 +2,19 @@
 
 This is a simple To-Do List application built using HTML, CSS, and JavaScript. The app features a pastel color scheme and allows users to organize their tasks into different sections.
 
+## Screenshots
+
+Here are some screenshots of the To-Do List website:
+
+![Home Page](./home%20page.png)
+*The main interface where you can add tasks.*
+
+![Work Section](./work%20notes.png)
+*View and manage your work-related tasks.*
+
+![Ideas Section](./ideas%20page.png)
+*view and manage your ideas.*
+
 ## Features
 
 - **Pastel Theme**: Enjoy a soft, visually appealing pastel color palette throughout the application.
@@ -25,15 +38,4 @@ This is a simple To-Do List application built using HTML, CSS, and JavaScript. T
 - **CSS**: Style the application with a pastel color scheme to enhance the user experience.
 - **JavaScript**: Handle dynamic features like task addition, deletion, and categorization.
 
-## Screenshots
 
-Here are some screenshots of the To-Do List website:
-
-![Home Page](./home%20page.png)
-*The main interface where you can add tasks.*
-
-![Work Section](./work%20notes.png)
-*View and manage your work-related tasks.*
-
-![Ideas Section](./ideas%20page.png)
-*view and manage your ideas.*
